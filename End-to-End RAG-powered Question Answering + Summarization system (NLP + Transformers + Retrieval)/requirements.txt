@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pdfplumber
+pypdf
+python-multipart
+streamlit
+numpy
+pandas
+python-dotenv
+

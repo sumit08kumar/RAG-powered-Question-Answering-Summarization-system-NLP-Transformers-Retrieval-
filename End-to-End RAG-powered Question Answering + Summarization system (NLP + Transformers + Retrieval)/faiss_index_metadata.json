@@ -1,0 +1,17 @@
+{
+  "model_name": "all-mpnet-base-v2",
+  "dimension": 768,
+  "num_vectors": 2,
+  "chunks_metadata": [
+    {
+      "content": "This is a sample document about machine learning.",
+      "chunk_id": 0,
+      "source_document": "sample.txt"
+    },
+    {
+      "content": "Natural language processing is a subfield of AI.",
+      "chunk_id": 1,
+      "source_document": "sample.txt"
+    }
+  ]
+}
